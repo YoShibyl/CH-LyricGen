@@ -1,0 +1,87 @@
+﻿[Song]
+{
+  Name = "(A Test Song)"
+  Artist = "Literally Nobody"
+  Charter = "YoshiOG"
+  Album = "No Album"
+  Year = ", 2019"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "None"
+  MediaType = "cd"
+  MusicStream = "song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 120000
+  2304 = B 130000
+  3072 = B 180000
+  3840 = B 120000
+}
+[Events]
+{
+  984 = E "phrase_start"
+  1080 = E "lyric "
+  1128 = E "lyric "
+  1200 = E "phrase_start"
+  1200 = E "lyric "
+  1320 = E "phrase_start"
+  1320 = E "lyric "
+  1488 = E "phrase_end"
+}
+[ExpertSingle]
+{
+  768 = N 0 0
+  864 = N 1 0
+  960 = N 2 0
+  1056 = N 3 0
+  1152 = N 4 0
+  1536 = N 2 0
+  1536 = N 4 0
+  1728 = N 1 0
+  1728 = N 3 0
+  1920 = N 0 0
+  1920 = N 2 0
+  2112 = N 0 0
+  2160 = N 0 0
+  2208 = N 0 0
+  2256 = N 0 0
+  2304 = N 0 0
+  2352 = N 0 0
+  2400 = N 0 0
+  2448 = N 0 0
+  2496 = N 0 0
+  2544 = N 0 0
+  2592 = N 0 0
+  2640 = N 0 0
+  2688 = N 0 0
+  2736 = N 0 0
+  2784 = N 0 0
+  2832 = N 0 0
+  2880 = N 0 0
+  2928 = N 0 0
+  2976 = N 0 0
+  3024 = N 0 0
+  3072 = N 0 0
+  3120 = N 0 0
+  3168 = N 0 0
+  3216 = N 0 0
+  3264 = N 0 0
+  3312 = N 0 0
+  3360 = N 0 0
+  3408 = N 0 0
+  3456 = N 0 0
+  3504 = N 0 0
+  3552 = N 0 0
+  3600 = N 0 0
+  3648 = N 0 0
+  3696 = N 0 0
+  3744 = N 0 0
+  3792 = N 0 0
+  3840 = N 0 768
+}
